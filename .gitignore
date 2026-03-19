@@ -31,3 +31,15 @@ coverage/js-unit
 
 # phpstan
 tmp-phpstan/*
+.phpstan/
+
+# codespell
+.codespell-dictionary.txt
+.codespell-exclude-lines.txt
+.codespellrc
+
+# github ci
+.github/actionlint.yaml
+.github/actions/
+.github/problem-matchers/
+.github/requirements-spellcheck.txt
