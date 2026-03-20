@@ -39,7 +39,4 @@ tmp-phpstan/*
 .codespellrc
 
 # github ci
-.github/actionlint.yaml
-.github/actions/
-.github/problem-matchers/
-.github/requirements-spellcheck.txt
+.github/*
